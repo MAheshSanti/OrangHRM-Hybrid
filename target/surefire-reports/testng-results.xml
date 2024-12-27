@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T16:23:30 IST" name="Surefire suite" finished-at="2024-12-27T16:23:55 IST" duration-ms="24550">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T16:23:30 IST" name="Surefire test" finished-at="2024-12-27T16:23:55 IST" duration-ms="24550">
+      <class name="driverFactory.AppTest">
+        <test-method signature="kickStart()[pri:0, instance:driverFactory.AppTest@318ba8c8]" started-at="2024-12-27T16:23:30 IST" name="kickStart" finished-at="2024-12-27T16:23:55 IST" duration-ms="24507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
